@@ -1,0 +1,10 @@
+LINUX COMMENTS
+
+mkdir student = you can create one folder.
+touch i(index.html) = it will be used to create any file.
+cd = it will represent in the director of the file manager.
+pwd = displays the full path of the current working directory in the terminal.
+cat = it will be used the read the code in the terminal. example ( cat index.html)
+cat > = it will be used to write code in the any file. but USing the help of teminal .  example ( cat > index.html)
+
+
