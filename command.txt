@@ -8,3 +8,4 @@ cat = it will be used the read the code in the terminal. example ( cat index.htm
 cat > = it will be used to write code in the any file. but USing the help of teminal .  example ( cat > index.html)
 
 
+ 
